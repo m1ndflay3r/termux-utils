@@ -6,7 +6,7 @@ This is a collection of small utilities and wrappers for termux on Android.
 Wrapper for ssh to add simple hosts file support.
 
 
-Can be symlinked to scp as well as ping. Wrapper selects function based on arg0.
+Can be symlinked to scp as well as ping (symlinked as "zing" by default). Wrapper selects function based on arg0.
 
 
 Checks for hosts file at location "/data/data/com.termux/files/home/.ssh/ssh_hosts".
